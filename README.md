@@ -1,5 +1,6 @@
 # AirCleaner-IOT-
 ![image](https://github.com/user-attachments/assets/6c9b5c0c-c790-4a01-8e7b-556b517d0b76)
+![image](https://github.com/user-attachments/assets/39b0394a-8a61-4eb8-8394-77c3e1d68491)
 
 <div>
   <h3>계기</h3>
